@@ -1,16 +1,29 @@
-# React + Vite
+<img width="1708" height="876" alt="image" src="https://github.com/user-attachments/assets/0bcbe508-cf80-436f-838f-a76f3b461e5c" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛒 React E-Commerce UI
 
-Currently, two official plugins are available:
+A modern and responsive E-Commerce frontend built using **React JS** and **TailwindCSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project focuses on creating a clean, modern UI design similar to real-world online shopping websites.
 
-## React Compiler
+## 🚀 Live Demo
+https://oman-ecommerce.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
+- React JS
+- TailwindCSS
+- JavaScript
+- Responsive UI Design
 
-## Expanding the ESLint configuration
+## ✨ Features
+- Modern UI Design
+- Responsive Layout
+- Product Listing
+- Clean Component Structure
+- Fast Performance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Purpose
+This project was built to practice **React development and modern UI design** while improving frontend skills.
+
+## 👨‍💻 Author
+Malik Oman
